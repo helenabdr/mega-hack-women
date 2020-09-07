@@ -44,6 +44,8 @@ Como a atuação em rede pode ajudar a solucionar problemas escancarados pela cr
 # Contribuidoras:
 
 * Ana Paula da Rocha
+* Gabriela Braz
 * Helena Borges Daré
+* Helena Meyer da Silva
 
 
