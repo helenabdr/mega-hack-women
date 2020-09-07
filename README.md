@@ -1,6 +1,6 @@
 # MEGA HACK WOMEN
 
-O aplicativo Juntas foi criado para o Hackathon realizado pela Shawee. O objetivo é resolver o desafio da Sebrae: 
+O aplicativo Juntas foi criado para o Hackathon realizado pela Shawee. O objetivo é resolver o desafio do Sebrae: 
 
 Como a atuação em rede pode ajudar a solucionar problemas escancarados pela crise da COVID-19: gestão de tempo; limites entre profissional e pessoal; cuidados com crianças/ idosos; saúde psicológica e violência doméstica?
 
@@ -18,7 +18,7 @@ Como a atuação em rede pode ajudar a solucionar problemas escancarados pela cr
 
 * Reuniões, selecionar reuniões com temas que gostaria de participar.
 
-(FOTO LADO A LADO DAS TRÊS TELAS CODADAS)
+<img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/escolha_temas.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/menu.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/reunioes.jpeg" alt="drawing" width="200"/>  
 
 
 # Tecnologias utilizadas
