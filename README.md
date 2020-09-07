@@ -18,7 +18,7 @@ Como a atuação em rede pode ajudar a solucionar problemas escancarados pela cr
 
 * Reuniões, selecionar reuniões com temas que gostaria de participar.
 
-<img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/escolha_temas.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/menu.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/reunioes.jpeg" alt="drawing" width="200"/>  
+<p align=center> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/escolha_temas.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/menu.jpeg" alt="drawing" width="200"/> <img src="https://github.com/helenabdr/mega-hack-women/blob/master/images/reunioes.jpeg" alt="drawing" width="200"/>  </p>
 
 
 # Tecnologias utilizadas
