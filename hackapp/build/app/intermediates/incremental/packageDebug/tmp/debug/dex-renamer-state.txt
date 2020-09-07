@@ -1,4 +1,0 @@
-#Mon Sep 07 13:49:27 BRT 2020
-base.0=/home/helena/Documents/mega-hack-women/hackapp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
-renamed.0=classes.dex
-path.0=classes.dex
