@@ -6,7 +6,7 @@ Como a atuação em rede pode ajudar a solucionar problemas escancarados pela cr
 
 ### <p align=justify> Juntas é uma rede de apoio para criar conexões valiosas e dividir experiências, de modo a resolver problemas comuns e ajudar a fortalecer o emocional da mulher empreendedora, fazendo com que ela se empodere e assuma o papel de protagonista da sua vida e de seu negócio. </p>
 
-<p align=center> ![Alt Text](https://github.com/helenabdr/mega-hack-women/blob/master/images/demo%20(1).gif)</p>
+![Alt Text](https://github.com/helenabdr/mega-hack-women/blob/master/images/demo%20(1).gif)
 
 
 # Features codadas
