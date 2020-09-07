@@ -4,7 +4,9 @@ O aplicativo Juntas foi criado para o Hackathon realizado pela Shawee. O objetiv
 
 Como a atuação em rede pode ajudar a solucionar problemas escancarados pela crise da COVID-19: gestão de tempo; limites entre profissional e pessoal; cuidados com crianças/ idosos; saúde psicológica e violência doméstica?
 
-#### (LOGO AQUI DO LADO) Juntas é uma rede de apoio para criar conexões valiosas e dividir experiências de como resolver problemas comuns e ajudar a fortalecer o emocional da mulher empreendedora, de modo que ela se empodere e assuma o papel de protagonista de sua vida e de seu negócio.
+
+#### <div style="text-align: right"> Juntas é uma rede de apoio para criar conexões valiosas e dividir experiências de como resolver problemas comuns e ajudar a fortalecer o emocional da mulher empreendedora, de modo que ela se empodere e assuma o papel de protagonista de sua vida e de seu negócio.
+ </div>
 
 
 (VIDEO OU GIF COM AS TRANSIÇÕES NO PROTÓTIPO)
